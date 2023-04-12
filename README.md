@@ -1,3 +1,3 @@
 # Landing
 Odin Project : Landing page
-(Actualy my fist one :3) 
+(Actually my fist one :3) 
